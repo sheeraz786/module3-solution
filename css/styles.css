@@ -1,0 +1,45 @@
+/* Navbar styles */
+.navbar {
+  background-color: green;
+  border: none;
+}
+.navbar-brand {
+  color: #fff !important;
+}
+.navbar-toggle .icon-bar {
+  background-color: #fff;
+}
+.navbar-collapse {
+  background-color: green;
+}
+.nav > li > a {
+  color: #fff !important;
+}
+
+/* Menu Boxes */
+.menu-box {
+  margin-bottom: 20px;
+}
+.menu-item {
+  background-color: tomato;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 20px;
+  text-align: center;
+  height: 200px;
+}
+.menu-item h3 {
+  margin-top: 0;
+  color: white;
+}
+.menu-item p {
+  margin-bottom: 0;
+  text-align: left;
+}
+
+/* Footer styles */
+footer {
+  background-color: green;
+  color: #fff;
+  padding: 10px 0;
+}
